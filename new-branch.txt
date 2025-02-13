@@ -1,1 +1,0 @@
-This is to practice creating and merging branches in git
